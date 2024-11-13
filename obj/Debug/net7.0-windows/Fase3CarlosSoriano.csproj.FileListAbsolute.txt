@@ -1,0 +1,36 @@
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.exe
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.deps.json
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.runtimeconfig.json
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.dll
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.pdb
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.Form1.resources
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.IngresoDatos.resources
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.Properties.Resources.resources
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.csproj.GenerateResource.cache
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.AssemblyInfoInputs.cache
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.AssemblyInfo.cs
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.dll
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\refint\Fase3CarlosSoriano.dll
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.pdb
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.genruntimeconfig.cache
+C:\Users\Carlos Soriano\Desktop\UNAD 2024\estructuras_datos\unidad 2\Fase3CarlosSoriano\obj\Debug\net7.0-windows\ref\Fase3CarlosSoriano.dll
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.exe
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.deps.json
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.runtimeconfig.json
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.dll
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\bin\Debug\net7.0-windows\Fase3CarlosSoriano.pdb
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.Form1.resources
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.IngresoDatos.resources
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.Properties.Resources.resources
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.csproj.GenerateResource.cache
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.AssemblyInfoInputs.cache
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.AssemblyInfo.cs
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.dll
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\refint\Fase3CarlosSoriano.dll
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.pdb
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\Fase3CarlosSoriano.genruntimeconfig.cache
+C:\Users\Carlos Soriano\OneDrive - Universidad Nacional Abierta y a Distancia\UNAD\SEMESTRE 5\ESTRUCTURAS_DATOS\Fase3CarlosSoriano\obj\Debug\net7.0-windows\ref\Fase3CarlosSoriano.dll
